@@ -1,27 +1,9 @@
-"name:LuxieV1.0BETA
-Changelog:
-[
-  Ver["1.0 BETA"] Release.
-
-]
-
-BootVersion:
-[
-  1.0 BETA
-
-
-]
-
-BuildVersion:
-[
-0.00000001
-
-
-]
-
-computerID:
-[
-  1122938F
-
-
-]"
+{
+  "name": "LuxieV1.0BETA",
+  "Changelog": [
+    { "version": "1.0 BETA", "description": "Release" }
+  ],
+  "BootVersion": "1.0 BETA",
+  "BuildVersion": 0.00000001,
+  "computerID": "1122938F"
+}
